@@ -1,0 +1,2 @@
+# ieducation
+static website
